@@ -29,8 +29,8 @@
 
 > ###### :hushed: ~~I live with a headache every day~~
 > ### :bell: A Goal To Be Achieved
-> #### :recycle: Stacks I am currently Learning
-> #### :recycle: I am Student Developer
+> #### :eyes: Stacks I am currently Learning
+> #### :angel: I am Student Developer
  
 ---
 
