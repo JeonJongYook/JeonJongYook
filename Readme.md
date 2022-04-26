@@ -59,7 +59,9 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
     
 </p>
+
 ## :pencil: Studying - BackEnd :pencil:
+
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
