@@ -26,9 +26,9 @@
 > #### :recycle: Stacks I am currently Learning
 > #### :recycle: I am Student Developer
  
-
 ---
 
+<br />
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
@@ -37,6 +37,8 @@
 </div>
 
 </div>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
