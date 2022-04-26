@@ -10,15 +10,24 @@
 > ### :computer: <br/> I am Web Developer
 > ### <a href="https://github.com/JeonJongYook"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonJongYook&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 
+</div>
+
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
+<br/>
+<br/>
+</div>
+
+<br />
+<br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJongYook)](https://github.com/JeonJongYook/github-readme-stats)
+<div align="center">
 
 ---
 
 </div>
-
-
 <div align="center">
 
 > ###### :hushed: ~~I live with a headache every day~~
@@ -29,23 +38,15 @@
 ---
 
 <br />
-<div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
-<br/>
-<br/>
-</div>
 
 </div>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-# :v: Step by Step
-## :pencil: Studying - FrontEnd :pencil:
+# 👩🏻‍💻 Tech Stack 
+> ## :pencil: Studying - FrontEnd :pencil:
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -60,7 +61,7 @@
     
 </p>
 
-## :pencil: Studying - BackEnd :pencil:
+> ## :pencil: Studying - BackEnd :pencil:
 
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -104,9 +105,23 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
 
-
-
 ---
+
+
+## 🙋🏻‍♀️ Contact me
+​
+<div align="center">
+    <a href="mailto:jggen0121@naver.com">
+        <img 
+            src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://instagram.com/leejieuns2/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    <a href="https://instagram.com/leejieuns2">
+        <img 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/w._.hddnr_19/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+</div>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
