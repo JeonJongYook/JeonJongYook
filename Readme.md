@@ -14,13 +14,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJongYook)](https://github.com/JeonJongYook/github-readme-stats)
 
-> ###### :hushed: ~~I live with a headache every day~~
 
 </div>
 
 
 <div align="center">
 
+> ###### :hushed: ~~I live with a headache every day~~
 > ### :bell: A Goal To Be Achieved
 > #### :recycle: Stacks I am currently Learning
 > #### :recycle: I am Student Developer
