@@ -14,6 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJongYook)](https://github.com/JeonJongYook/github-readme-stats)
 
+---
 
 </div>
 
@@ -30,11 +31,13 @@
 
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJongYook&theme=dracula&exclude_repo=semicoloncommunity&layout=compact&langs_count=10"/>
 <br/>
 <br/>
 </div>
 
 </div>
+<br/>
 
 # :v: Step by Step
 ## :pencil: Studying - FrontEnd :pencil:
