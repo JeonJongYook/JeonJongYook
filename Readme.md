@@ -81,7 +81,7 @@
 
 ---
 
-### 📡 Software Configuration Management 📡
+### 📡 Version Configuration Management 📡
 
 <p> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
@@ -92,9 +92,18 @@
 
 ---
 
+### 📡 Web-based hosting services for Git Repository 📡
+
+<p> 
+    <a href="https://github.com/JeonJongYook">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
+    </a>
+</p>
+
+---
+
 ### :traffic_light: Use Develop Tool
 <p>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
@@ -112,7 +121,18 @@
 </p>
 
 ---
+
 ### :airplane: ( WWW ) - Web Development Club Class 
+
+<p>
+    <a href="https://github.com/INTEC-WWW">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
+    </a>
+</p>
+
+---
+
+### 🛰 ( WWW ) - Web Development Club Class 
 
 <p>
     <a href="https://github.com/INTEC-WWW">
