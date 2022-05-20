@@ -132,10 +132,16 @@
 
 ---
 
-### 🛰 ( WWW ) - Web Development Club Class 
+### 🚄 ( JJG'Story ) - FrontEnd Developer Web Portfolio 
 
 <p>
-    <a href="https://github.com/INTEC-WWW">
+    Git Repository
+    <a href="https://github.com/JeonJongYook/Portfolio-Web">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
+    </a>
+    <br/>
+    Online Web Pages
+    <a href="https://jjgstory.netlify.app/">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
     </a>
 </p>
