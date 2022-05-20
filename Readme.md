@@ -138,6 +138,7 @@
     <a href="https://github.com/JeonJongYook/Portfolio-Web" target="_blank">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> Git Repository &nbsp;&nbsp;
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://jjgstory.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/GithubPages-222222?style=for-the-badge&logo=GithubPages&logoColor=white"/> Online Web Pages &nbsp;&nbsp;
     </a>
