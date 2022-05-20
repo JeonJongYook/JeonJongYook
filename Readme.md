@@ -139,7 +139,7 @@
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> Git Repository &nbsp;&nbsp;
     </a>
     <a href="https://jjgstory.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>Online Web Pages &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/GithubPages-222222?style=for-the-badge&logo=GithubPages&logoColor=white"/> Online Web Pages &nbsp;&nbsp;
     </a>
 </p>
 
