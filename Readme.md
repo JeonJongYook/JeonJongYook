@@ -1,5 +1,5 @@
 ![헤더](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=새로운%20환경을%20두려워하지%20말라&fontSize=50)
-# Hello, JEON :smirk:
+# Hello, JEON :smirk: ![Profile views](https://gpvc.arturio.dev/JeonJongYook)
 
 <p></p>
 <p></p>
@@ -149,18 +149,18 @@
 
 ## 🙋🏻‍♀️ Contact me
 
-<div align="center">
+<p align="center">
     <a href="mailto:jggen0121@naver.com">
         <img 
-            src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://instagram.com/leejieuns2/"
+            src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://instagram.com/w._.hddnr_19/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="https://instagram.com/leejieuns2">
+    <a href="https://instagram.com/w._.hddnr_19/">
         <img 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/w._.hddnr_19/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-</div>
+</p>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
