@@ -136,11 +136,11 @@
 
 <p>
     <a href="https://github.com/JeonJongYook/Portfolio-Web" target="_blank">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> Git Repository &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>&nbsp;&nbsp;
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://jjgstory.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/GithubPages-222222?style=for-the-badge&logo=GithubPages&logoColor=white"/> Online Web Pages &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/GithubPages-222222?style=for-the-badge&logo=GithubPages&logoColor=white"/> &nbsp;&nbsp;
     </a>
 </p>
 
@@ -164,7 +164,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JeonJongYook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
