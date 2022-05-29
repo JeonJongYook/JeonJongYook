@@ -3,6 +3,8 @@
 ![Header](./github-header-image.png)
 
 </div>
+
+<br/>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Hello%2C+Jeon+%F0%9F%98%8E)](https://git.io/typing-svg)
