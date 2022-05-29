@@ -1,4 +1,4 @@
-<div align="center" style="max-width: 100%; user-select: auto;">
+<div align="center" style="max-width: 80%; user-select: auto;">
 
 ![Header](./github-header-image.png)
 
