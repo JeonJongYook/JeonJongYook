@@ -4,7 +4,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello%2C+Jeon+%F0%9F%98%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello%2C+Jeon+%F0%9F%98%8B)](https://git.io/typing-svg)
 
 <p></p>
 <p></p>
