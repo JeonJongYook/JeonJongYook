@@ -5,9 +5,9 @@
 </div>
 
 <br/>
-<br/>
+    <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Hello%2C+Jeon+%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00000000&lines=Hello%2C+Jeon;%EC%83%88%EB%A1%9C%EC%9A%B4+%ED%99%98%EA%B2%BD%EC%97%90+%EB%91%90%EB%A0%A4%EC%9B%8C%ED%95%98%EC%A7%80+%EB%A7%90%EC%9E%90!)](https://git.io/typing-svg)
 
 <p></p>
 <p></p>
