@@ -1,13 +1,11 @@
 <div align="center" style="max-width: 80%; user-select: auto;">
 
-![Header](./github-header-image.png)
-
 </div>
 
 <br/>
-    <br/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00000000&lines=Hello%2C+Jeon;%EC%83%88%EB%A1%9C%EC%9A%B4+%ED%99%98%EA%B2%BD%EC%97%90+%EB%91%90%EB%A0%A4%EC%9B%8C%ED%95%98%EC%A7%80+%EB%A7%90%EC%9E%90!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20JongWook!&fontAlign=50&fontAlignY=70&fontSize=85&fontColor=000000)
 
 <p></p>
 <p></p>
