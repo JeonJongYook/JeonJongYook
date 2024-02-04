@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20JongWook!&fontAlign=50&fontAlignY=70&fontSize=85&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20JeonJongYook!&fontAlign=50&fontAlignY=70&fontSize=85&fontColor=000000)
 
 <p></p>
 <p></p>
@@ -15,7 +15,7 @@
 
 --- 
 
-> ## :computer:  I am FrontEnd Developer
+> ## :computer:  I am Web FullStack Developer
 > ### <a href="https://github.com/JeonJongYook"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonJongYook&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_plastic=false"/></a>
 
 </div>
@@ -35,7 +35,7 @@
 > ###### :hushed: ~~I live with a headache every day~~
 > ### :bell: A Goal To Be Achieved
 > ### :eyes: Stacks I am currently Learning
-> ### :angel: I am Student Developer
+> ### :angel: I am FullStack Web Developer
  
 
 
